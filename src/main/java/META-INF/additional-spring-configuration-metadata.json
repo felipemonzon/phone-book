@@ -1,0 +1,82 @@
+{"properties": [
+  {
+    "name": "swagger.basePackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.basePackage'"
+  },
+  {
+    "name": "swagger.descriptionApi",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.descriptionApi'"
+  },
+  {
+    "name": "swagger.title",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.title'"
+  },
+  {
+    "name": "swagger.version",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.version'"
+  },
+  {
+    "name": "swagger.descriptionApi",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.descriptionApi'"
+  },
+  {
+    "name": "swagger.descriptionApi",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.descriptionApi'"
+  },
+  {
+    "name": "swagger.descriptionApi",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.descriptionApi'"
+  },
+  {
+    "name": "swagger.nameDeveloper",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.nameDeveloper'"
+  },
+  {
+    "name": "swagger.contactUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.contactUrl'"
+  },
+  {
+    "name": "swagger.basePackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.basePackage'"
+  },
+  {
+    "name": "swagger.basePackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.basePackage'"
+  },
+  {
+    "name": "swagger.basePackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.basePackage'"
+  },
+  {
+    "name": "swagger.basePackage",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.basePackage'"
+  },
+  {
+    "name": "swagger.emailDeveloper",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.emailDeveloper'"
+  },
+  {
+    "name": "swagger.emailDeveloper",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.emailDeveloper'"
+  },
+  {
+    "name": "swagger.emailDeveloper",
+    "type": "java.lang.String",
+    "description": "A description for 'swagger.emailDeveloper'"
+  }
+]}
