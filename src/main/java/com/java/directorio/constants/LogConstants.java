@@ -23,6 +23,14 @@ public abstract class LogConstants {
    * Error al detectar el cambio en la coleccion de mongo.
    */
   public static final String ERROR_CHANGE_PHONE_BOOK = "Error change phone book event {}";
+  /**
+   * Mide tiempo en metodos de negocio.
+   */
+  public static final String BUSINESS_GET_ALL_PHONE_BOOK = "BUSINESS - [Consulta el directorio]";
+  /**
+   * Mide tiempo en metodos de acceso a la base de datos.
+   */
+  public static final String DATABASE_GET_ALL_PHONE_BOOK = "DATABASE - [Consulta el directorio]";
 
   /**
    * Constructor de la clase.

@@ -8,9 +8,9 @@ import org.springframework.web.cors.reactive.CorsWebFilter;
 import org.springframework.web.cors.reactive.UrlBasedCorsConfigurationSource;
 
 @SpringBootApplication
-public class DirectorioApplication {
+public class PhoneBookApplication {
   public static void main(String[] args) {
-    SpringApplication.run(DirectorioApplication.class, args);
+    SpringApplication.run(PhoneBookApplication.class, args);
   }
 
   /**
