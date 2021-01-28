@@ -1,6 +1,5 @@
 package com.java.directorio.business;
 
-import com.java.common.annotation.LogExecutionTime;
 import com.java.directorio.constants.LogConstants;
 import com.java.directorio.domain.PhoneBookDomain;
 import com.java.directorio.dto.PhoneBook;
@@ -41,7 +40,7 @@ public class PhoneBookBusiness implements PhoneBookService {
    * {@inheritDoc}.
    */
   @Override
-  @LogExecutionTime(name = LogConstants.BUSINESS_GET_ALL_PHONE_BOOK)
+  //@LogExecutionTime(name = LogConstants.BUSINESS_GET_ALL_PHONE_BOOK)
   public Flux<PhoneBook> getAllPhoneBook() {
     log.info(LogConstants.GET_PHONE_BOOK);
     Flux<PhoneBookDomain> entity = this.phoneBookRepository.findAll();

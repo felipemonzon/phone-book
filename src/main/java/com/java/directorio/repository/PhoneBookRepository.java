@@ -1,7 +1,5 @@
 package com.java.directorio.repository;
 
-import com.java.common.annotation.LogExecutionTime;
-import com.java.directorio.constants.LogConstants;
 import com.java.directorio.domain.PhoneBookDomain;
 
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
@@ -17,6 +15,6 @@ import reactor.core.publisher.Mono;
  */
 @Repository
 public interface PhoneBookRepository extends ReactiveCrudRepository<PhoneBookDomain, Integer> {
-  @LogExecutionTime(name = LogConstants.DATABASE_GET_ALL_PHONE_BOOK)
+  // @LogExecutionTime(name = LogConstants.DATABASE_GET_ALL_PHONE_BOOK)
   Mono<PhoneBookDomain> findByTelephone(final String telephone);
 }
