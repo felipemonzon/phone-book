@@ -2,6 +2,11 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
 > Directorio telefonico.
 
+# Badges
+
+![Java CI with Maven](https://github.com/felipemonzon/phone-book/workflows/Java%20CI%20with%20Maven/badge.svg)
+
+
 ## Stack tecnologico
 
 * Spring boot 2.3.1
